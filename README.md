@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Bruno Morgado
+# 👨🏻‍💻 Bruno Morgado
 
 **`Desenvolvedor`**
 
