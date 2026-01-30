@@ -12,7 +12,7 @@ Me chamo Bruno Kenzo Tanaka Morgado, tenho 18 anos e sou natural de Bastos-SP. C
  
 <div> 
   <a href="https://www.instagram.com/brunokmorgado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2324292F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunomorgadowork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:brunomorgadowork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%2324292F?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-morgado-853126363/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
