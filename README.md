@@ -5,8 +5,12 @@
 Me chamo Bruno Kenzo Tanaka Morgado, tenho 18 anos e sou natural de Bastos-SP. Concluí o ensino médio na ETEC Massuyuki Kawano, com o curso técnico em Administração. Atualmente, estou cursando -------------------------------------. Possuo interesse na área de **Dados, Engenharia de Dados e Inteligência Artificial**, acredito que grandes coisas estão por vir. 😄
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Bruno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="PowerBI" height="30" width="40"
+       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg">
 </div>
+
   
   ##
  
