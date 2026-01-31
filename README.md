@@ -8,7 +8,7 @@ Me chamo Bruno Kenzo Tanaka Morgado, tenho 18 anos e sou natural de Bastos-SP. C
 
 <div style="display: inline_block"><br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-<img src="https://img.shields.io/badge/PowerBi %2F%20-ffca28?style=for-the-badge" alt="API Badge"/>
+<img src="https://img.shields.io/badge/PowerBi %20-ffca28?style=for-the-badge" alt="API Badge"/>
 </div>
   
   ##
