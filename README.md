@@ -7,9 +7,9 @@
 Me chamo Bruno Kenzo Tanaka Morgado, tenho 18 anos e sou natural de Bastos-SP. Concluí o ensino médio na ETEC Massuyuki Kawano, com o curso técnico em Administração. Atualmente, estou cursando Sistemas Inteligentes na Fatec Pompeia Shunji Nishimura. Possuo interesse na área de **Dados, Engenharia de Dados e Inteligência Artificial**, acredito que grandes coisas estão por vir. 😄
 
 
-### 🚀 Tecnologias e Ferramentas
+### STACKS
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,figma,mysql,git,github,antigravity" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git" />
 </p>
   
   ##
