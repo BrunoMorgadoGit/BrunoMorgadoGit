@@ -9,7 +9,7 @@ Me chamo Bruno Kenzo Tanaka Morgado, tenho 18 anos e sou natural de Bastos-SP. C
 
 ### 🚀 Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,js,figma,mysql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,figma,mysql,git,github,antigravity" />
 </p>
   
   ##
