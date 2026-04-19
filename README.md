@@ -8,7 +8,8 @@ Me chamo Bruno Kenzo Tanaka Morgado, tenho 18 anos e sou natural de Bastos-SP. C
 
 
 
-**`Stacks and IDE`**
+<h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
+<div align="center">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,vscode" />
@@ -21,17 +22,6 @@ Me chamo Bruno Kenzo Tanaka Morgado, tenho 18 anos e sou natural de Bastos-SP. C
   <a href = "mailto:brunomorgadowork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-morgado-853126363/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-
-<h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
-<div align="center">
-	
-<div align="center">
-  <img 
-    height="175" 
-    width="500" 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=SEU_USERNAME&layout=compact&theme=tokyonight"
-  />
 </div>
 
 &nbsp;
