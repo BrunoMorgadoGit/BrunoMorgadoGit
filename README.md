@@ -14,14 +14,20 @@ Me chamo Bruno Kenzo Tanaka Morgado, tenho 19 anos e sou natural de Bastos-SP. C
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,vscode" />
 </p>
-## 🚀 Linguagens mais usadas
+## 🚀 Linguagens e tecnologias
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMorgadoGit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
-    alt="Linguagens mais usadas"
-  />
-</p>
+<div align="center">
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+</div>
 
  <h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
  
