@@ -14,10 +14,14 @@ Me chamo Bruno Kenzo Tanaka Morgado, tenho 19 anos e sou natural de Bastos-SP. C
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,vscode" />
 </p>
-
 ## 🚀 Linguagens mais usadas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMorgadoGit&layout=compact&theme=tokyonight)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoMorgadoGit&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" 
+    alt="Linguagens mais usadas"
+  />
+</p>
 
  <h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
  
