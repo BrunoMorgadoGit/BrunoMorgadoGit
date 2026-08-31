@@ -1,36 +1,60 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Me+chamo+Bruno%2C+this+is+my+GitHub)](https://git.io/typing-svg)
+# Olá, eu sou Bruno Morgado 👋
 
-# 👨🏻‍💻 Bruno Morgado
+## Estagiário de Desenvolvimento de Software na Momesso | TypeScript, NestJS e Angular
 
-**`Data & AI`**
+Sou estudante de **Sistemas Inteligentes na Fatec Shunji Nishimura** e técnico em Administração pela ETEC Massuyuki Kawano. Atualmente, atuo como **estagiário de Desenvolvimento de Software na Momesso**, programando em **TypeScript** e utilizando **NestJS no back-end** e **Angular no front-end**.
 
-Me chamo Bruno Kenzo Tanaka Morgado, tenho 19 anos e sou natural de Bastos-SP. Concluí o ensino médio na ETEC Massuyuki Kawano, com o curso técnico em Administração. Atualmente, estou cursando Sistemas Inteligentes na Fatec Pompeia Shunji Nishimura. Possuo interesse na área de **Dados, Machine Learning e Inteligência Artificial**, acredito que grandes coisas estão por vir. 😄
+Minha formação também me aproxima de **Data Science, Machine Learning e visão computacional**. Gosto de entender o problema, organizar a solução e transformar requisitos em software funcional, claro e útil.
 
+Busco uma oportunidade de estágio ou entrada nas áreas de:
 
+- **Data Science e Machine Learning**
+- **Engenharia de Software e Desenvolvimento Full Stack**
+- **Análise de Dados e Engenharia**
 
-<h2><a id="github-stats"></a><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> Github Stats</h2>
-<div align="center">
+## Minha experiência atual
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,mysql,git,vscode" />
-</p>
+No estágio, venho desenvolvendo minha experiência profissional em engenharia de software com TypeScript, NestJS e Angular. Essa vivência tem fortalecido minha base em desenvolvimento web e ampliado meu interesse por arquitetura, APIs, integração entre front-end e back-end e qualidade de código.
 
- <h2><a id="social-media"></a><img src="https://user-images.githubusercontent.com/74038190/235294016-6556559a-ed58-4ca6-a4c9-c307cbe0b6b7.gif" width="30"> Social Media</h2>
- 
-<div>
-  <p
-  
-   <a href="https://www.instagram.com/brunokmorgado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2324292F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:brunomorgadowork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23FFFFFF?style=for-the-badge&logo=gmail&logoColor=black" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-morgado-853126363/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</p>
-  
-</div>
+## O que venho construindo
 
-&nbsp;
+- Pipelines de preparação de dados, treinamento, validação e inferência para projetos de visão computacional;
+- APIs e aplicações web com autenticação, CRUD, controle de acesso e bancos relacionais;
+- Interfaces web com Angular e integração com back-end;
+- Projetos acadêmicos e pessoais documentados no GitHub.
 
-<div align="center">
-  <img width="900" height="200" alt="Mario" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
-</div>
+## Tecnologias e conhecimentos
 
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+**Dados e IA:** Python, SQL, OpenCV, YOLOv8, MediaPipe, processamento de imagens e fundamentos de Machine Learning.
+
+**Engenharia de software:** TypeScript, JavaScript, Angular, NestJS, Flask, APIs REST, JWT, HTML e CSS.
+
+**Bancos e ferramentas:** PostgreSQL, MySQL, Prisma, TypeORM, SQLAlchemy, Alembic, Git/GitHub, Docker, Vitest, Jest e Playwright.
+
+## Projetos em destaque
+
+### [EggVision — Classificação de ovos com YOLOv8](https://github.com/BrunoMorgadoGit/egg_vision)
+
+Projeto de visão computacional para classificação de imagens de ovos, com preparação e verificação de dataset, treinamento, validação e inferência usando Python e YOLOv8. **2º lugar no Simpósio de Ciência de Dados — 2026.**
+
+### [Aplicação Full Stack de Gestão](https://github.com/BrunoMorgadoGit/Teste_estagio_Momesso)
+
+Aplicação para gerenciamento de empresas, usuários e máquinas, com API em NestJS, front-end em Angular, PostgreSQL, TypeORM, autenticação JWT, CRUD e regras de acesso por perfil.
+
+### [Cuida Bem — Aplicação web para apoio ao cuidador](https://github.com/BrunoMorgadoGit/Cuida_Bem_Front-end)
+
+Aplicação web para organizar tarefas, lembretes, guias, histórico e recursos de apoio ao cuidado da pessoa idosa, com interface Angular e integração com API.
+
+### [Organizador de Custos](https://github.com/BrunoMorgadoGit/App_Gestao_Financeira)
+
+Aplicação Flask com renderização server-side para controle de gastos, receitas, investimentos e saldo, utilizando PostgreSQL, SQLAlchemy, migrações, proteção CSRF e rate limiting.
+
+## Formação
+
+- **Tecnologia em Sistemas Inteligentes** — Fatec Shunji Nishimura, 2026–2028
+- **Ensino Médio integrado ao Técnico em Administração** — ETEC Massuyuki Kawano, 2023–2025
+
+## Vamos conversar?
+
+- [LinkedIn](https://www.linkedin.com/in/bruno-morgado-853126363/)
+- [GitHub](https://github.com/BrunoMorgadoGit)
