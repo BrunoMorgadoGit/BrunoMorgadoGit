@@ -9,7 +9,7 @@ Estudo Sistemas Inteligentes na Fatec Shunji Nishimura e mantenho projetos em da
 ## No estágio
 
 - Desenvolvo APIs, regras de negócio e interfaces full-stack usando TypeScript, NestJS e Angular.
-- Integro telemetria de máquinas via MQTT ao backend e à aplicação usada no acompanhamento operacional.
+- Integro produção de máquinas via MQTT ao backend e à aplicação usada no acompanhamento operacional.
 - Trabalho com autenticação, bancos relacionais, testes, Docker e Git em sistemas corporativos.
 
 ## Projetos que representam meu trabalho
