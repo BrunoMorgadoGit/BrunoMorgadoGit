@@ -1,6 +1,6 @@
 # Bruno Morgado
 
-**Estagiário de Engenharia de Software na Momesso · Full Stack · Dados & IA**
+**Estagiário Full Stack na Momesso · Engenharia de Software · Dados & IA**
 
 Atualmente desenvolvo sistemas corporativos para um contexto industrial. Trabalho principalmente com TypeScript, NestJS e Angular — do dado que chega da máquina via MQTT até a informação disponível na aplicação.
 
